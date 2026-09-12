@@ -23,10 +23,6 @@ Single-window workspace manager for Firefox. Organize live tabs into named works
 - Pinned tabs are global. Firefox does not let extensions hide pinned tabs.
 - Each tab's workspace is stored on the tab with `sessions.setTabValue`, so ownership survives restart and session restore.
 
-## Migrating from Workflow01
-
-Workspace01 is a separate add-on with its own storage and its own per-tab key. Before removing Workflow01: open it, click **Reset all workspaces** so every tab is visible again, then remove it. Install Workspace01 and recreate your workspaces. Firefox also un-hides all tabs automatically when the add-on that hid them is disabled or removed.
-
 ## Local testing
 
 1. Open `about:debugging#/runtime/this-firefox`.
