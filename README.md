@@ -2,8 +2,6 @@
 
 Single-window workspace manager for Firefox. Organize live tabs into named workspaces and switch between them without closing, recreating, or reloading tabs.
 
-Successor to [Workflow01](https://github.com/ntrezowan/workflow01). Chrome version: [workspace01-chrome](https://github.com/ntrezowan/workspace01-chrome).
-
 ## Interface
 
 - Native-looking popup using system colors, light and dark.
